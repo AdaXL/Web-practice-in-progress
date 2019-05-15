@@ -1,3 +1,5 @@
+This is a web development practice in-progress. Following instructions from Udemy course [The Complete Web Developer in 2019: Zero to Mastery](https://www.udemy.com/share/100ZfUAkQfcFxWQ3w=/) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
